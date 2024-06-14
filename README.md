@@ -2,4 +2,4 @@
 
 💬 Nostr: npub1g0epzm4egfx6mda7pug9r4fwqpqzky6524zjev39tnjrp66g70eqdtz7dp
 
-&Xopf; Twitter (X): http://twitter.com/praveenperera
+&Xopf;: http://x.com/praveenperera
